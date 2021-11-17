@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yk6FjkTo1FhzGUtN4xXUQaXIPJdcFmlqSqavCX6us5rKABXUeLScf3ghvsqmsZ2SzM1cWzLBjmA16HFnQDR8nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpd00\\source\\repos\\3A1JoãoPaulo203etp\\3A1JoãoPaulo203etp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpd00\\.nuget\\packages\\mysqlconnector\\2.0.0\\mysqlconnector.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
